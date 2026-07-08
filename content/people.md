@@ -11,8 +11,11 @@ title: "People"
 ## Lab Members
 
 **Erin Su** — Biochemistry, '27
+
 **Celina Li** — Biochemistry, '28
+
 **Jacqueline Soraire** — Chemistry, '28
+
 **Sylvia Lam** — Biochemistry, '28
 
 <!-- Name — Role -->
