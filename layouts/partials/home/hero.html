@@ -34,9 +34,12 @@
               class="h-full w-full object-cover nozoom mt-0 mr-0 mb-0 ml-0"
               src="{{ $homepageImage.RelPermalink }}"
               {{ if $style }}style="{{ $style | safeCSS }}"{{ end }}>
-            {{/* Neutral dark scrim for text legibility — no color tint on the photo itself */}}
+            {{/* Neutral dark scrim for text legibility — no color tint on the photo itself.
+                 Inline style is required: Blowfish ships precompiled Tailwind CSS, so utility
+                 classes not already used elsewhere in the theme have no generated rule. */}}
             <div
-              class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/30 to-black/10"></div>
+              class="absolute inset-0"
+              style="background-color: rgba(0, 0, 0, 0.55);"></div>
           {{ end }}
         </div>
         <div
