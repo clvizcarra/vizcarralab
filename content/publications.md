@@ -2,7 +2,7 @@
 title: "Publications"
 ---
 
-**Bold** indicates a Vizcarra Lab PI author. <u>Underline</u> indicates a student researcher. \* indicates a corresponding author.
+<u>Underline</u> indicates a student researcher. \* indicates a corresponding author.
 
 1. **Vizcarra CL**, Trainor RF, McDonald AR, Richardson CT, Potoyan D, Nash JA, Lundgren B, Luchko T, Hocky GM, Foley JJ, Atherton TJ, Stokes GY\* (2024) *An interdisciplinary effort to integrate coding into science courses*, Nature Computational Science, 4: 803–804.
 
