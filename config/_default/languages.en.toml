@@ -16,6 +16,4 @@ title = "Vizcarra Lab"
   email = "cvizcarr@barnard.edu"
   headline = "The Vizcarra Lab studies proteins that build the eukaryotic cytoskeleton."
   bio = "Department of Biological Sciences, Barnard College"
-  links = [
-    { email = "mailto:cvizcarr@barnard.edu" },
-  ]
+  links = []
