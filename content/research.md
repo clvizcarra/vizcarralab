@@ -8,30 +8,28 @@ The Vizcarra Lab studies the proteins that build the eukaryotic cytoskeleton.
 
 ![Formins & Microtubules](/img/research/formins-microtubules.svg)
 
-<!-- Describe this research area: what question you're asking, your approach, and why it matters. -->
+We are interested in the ubiquitous but cryptic interactions between formins and microtubules and how those complexes vary among mammalian formins.
 
-*Related publications:* <!-- e.g. [Author et al. (2023)](/publications/) -->
 
 ## Formins & Small Molecules
 
 ![Formins & Small Molecules](/img/research/formins-small-molecules.svg)
 
-<!-- Describe this research area: what question you're asking, your approach, and why it matters. -->
+We study the mechanistic basis for formin inhibition by small molecules.
 
-*Related publications:* <!-- e.g. [Author et al. (2022)](/publications/) -->
+
 
 ## Auditory Protein Biochemistry
 
-![Auditory Protein Biochemistry](/img/research/auditory-protein-biochemistry.svg)
+![Auditory Protein Biochemistry](/img/research/cna35.png)
 
-<!-- Describe this research area: what question you're asking, your approach, and why it matters. -->
+We study how deafness-associated variants impact formin function and generally protein-based structures in the cochlea (collaboration with the Olson lab at CUIMC).
 
-*Related publications:* <!-- e.g. [Author et al. (2023)](/publications/) -->
+
 
 ## Metallothioneins
 
 ![Metallothioneins](/img/research/metallothioneins.svg)
 
-<!-- Describe this research area: what question you're asking, your approach, and why it matters. -->
+Together with the Austin lab, we study metallothionein-3's interaction with the actin cytoskeleton.
 
-*Related publications:* <!-- e.g. [Author et al. (2022)](/publications/) -->
