@@ -4,7 +4,11 @@ title: "People"
 
 ## Principal Investigator
 
+<img src="/img/people/christina-vizcarra.jpg" alt="Christina Vizcarra" style="width: 200px; height: 200px; border-radius: 12px; object-fit: cover;">
+
 **Christina Vizcarra** — Associate Professor, Department of Chemistry, Barnard College
+
+[Download CV (PDF)](/cv/vizcarra-cv.pdf)
 
 <!-- Add lab members below: postdocs, graduate students, undergraduate researchers, alumni. -->
 
