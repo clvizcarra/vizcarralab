@@ -20,7 +20,7 @@ showTableOfContents: false
 </div>
 
 <div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap; margin-bottom: 24px;">
-  <img src="/img/research/cna35.png" alt="Auditory Protein Biochemistry" style="width: 180px; height: 180px; border-radius: 12px; object-fit: cover; flex-shrink: 0;">
+  <img src="/img/research/tectorial-memberane.png" alt="Auditory Protein Biochemistry" style="width: 180px; height: 180px; border-radius: 12px; object-fit: cover; flex-shrink: 0;">
   <div style="flex: 1 1 0%; min-width: 0;">
     <strong>Auditory Protein Biochemistry</strong><br>
     We study how deafness-associated variants impact formin function and generally protein-based structures in the cochlea (collaboration with the Olson lab at CUIMC).
