@@ -4,7 +4,7 @@ showTableOfContents: false
 ---
 
 <div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap; margin-bottom: 24px;">
-  <img src="/img/research/formins-microtubules.svg" alt="Formins & Microtubules" style="width: 180px; height: 180px; border-radius: 12px; object-fit: cover; flex-shrink: 0;">
+  <img src="/img/research/mt-end-on.png" alt="Formins & Microtubules" style="width: 180px; height: 180px; border-radius: 12px; object-fit: cover; flex-shrink: 0;">
   <div style="flex: 1 1 0%; min-width: 0;">
     <strong>Formins & Microtubules</strong><br>
     We are interested in the ubiquitous but cryptic interactions between formins and microtubules and how those complexes vary among mammalian formins.
