@@ -75,6 +75,8 @@ title: "People"
 
 **Hana Illikkal** — Biochemistry, '23
 
+**Xiang Ji** — Biochemistry, '22
+
 **Hannah Christianson** — Chemistry, '22
 
 **Joana Gjeci** — Biochemistry, '22
