@@ -6,30 +6,36 @@ The Vizcarra Lab studies the proteins that build the eukaryotic cytoskeleton.
 
 ## Formins & Microtubules
 
-![Formins & Microtubules](/img/research/formins-microtubules.svg)
-
-We are interested in the ubiquitous but cryptic interactions between formins and microtubules and how those complexes vary among mammalian formins.
-
+<div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap; margin-bottom: 24px;">
+  <img src="/img/research/formins-microtubules.svg" alt="Formins & Microtubules" style="width: 180px; height: 180px; border-radius: 12px; object-fit: cover; flex-shrink: 0;">
+  <div style="flex: 1 1 0%; min-width: 0;">
+    We are interested in the ubiquitous but cryptic interactions between formins and microtubules and how those complexes vary among mammalian formins.
+  </div>
+</div>
 
 ## Formins & Small Molecules
 
-![Formins & Small Molecules](/img/research/formins-small-molecules.svg)
-
-We study the mechanistic basis for formin inhibition by small molecules.
-
-
+<div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap; margin-bottom: 24px;">
+  <img src="/img/research/formins-small-molecules.svg" alt="Formins & Small Molecules" style="width: 180px; height: 180px; border-radius: 12px; object-fit: cover; flex-shrink: 0;">
+  <div style="flex: 1 1 0%; min-width: 0;">
+    We study the mechanistic basis for formin inhibition by small molecules.
+  </div>
+</div>
 
 ## Auditory Protein Biochemistry
 
-![Auditory Protein Biochemistry](/img/research/cna35.png)
-
-We study how deafness-associated variants impact formin function and generally protein-based structures in the cochlea (collaboration with the Olson lab at CUIMC).
-
-
+<div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap; margin-bottom: 24px;">
+  <img src="/img/research/cna35.png" alt="Auditory Protein Biochemistry" style="width: 180px; height: 180px; border-radius: 12px; object-fit: cover; flex-shrink: 0;">
+  <div style="flex: 1 1 0%; min-width: 0;">
+    We study how deafness-associated variants impact formin function and generally protein-based structures in the cochlea (collaboration with the Olson lab at CUIMC).
+  </div>
+</div>
 
 ## Metallothioneins
 
-![Metallothioneins](/img/research/metallothioneins.svg)
-
-Together with the Austin lab, we study metallothionein-3's interaction with the actin cytoskeleton.
-
+<div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap; margin-bottom: 24px;">
+  <img src="/img/research/metallothioneins.svg" alt="Metallothioneins" style="width: 180px; height: 180px; border-radius: 12px; object-fit: cover; flex-shrink: 0;">
+  <div style="flex: 1 1 0%; min-width: 0;">
+    Together with the Austin lab, we study metallothionein-3's interaction with the actin cytoskeleton.
+  </div>
+</div>
