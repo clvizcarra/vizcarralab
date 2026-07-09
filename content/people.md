@@ -7,7 +7,8 @@ title: "People"
 <div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap; margin-bottom: 24px;">
   <img src="/img/people/christina-vizcarra.jpg" alt="Christina Vizcarra" style="width: 160px; height: 160px; border-radius: 12px; object-fit: cover; flex-shrink: 0;">
   <div style="flex: 1 1 0%; min-width: 0;">
-    <strong>Christina Vizcarra</strong> — Associate Professor, Department of Chemistry, Barnard College<br>
+    <strong>Christina Vizcarra</strong><br>
+    Associate Professor, Department of Chemistry, Barnard College<br>
     <a href="/cv/vizcarra-cv.pdf">Download CV (PDF)</a>
   </div>
 </div>
@@ -18,22 +19,22 @@ title: "People"
 
 <div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap; margin-bottom: 20px;">
   <img src="/img/people/erin-su.svg" alt="Erin Su" style="width: 110px; height: 110px; border-radius: 12px; object-fit: cover; flex-shrink: 0;">
-  <div style="flex: 1 1 0%; min-width: 0;"><strong>Erin Su</strong> — Biochemistry, '27</div>
+  <div style="flex: 1 1 0%; min-width: 0;"><strong>Erin Su</strong><br>Biochemistry, '27</div>
 </div>
 
 <div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap; margin-bottom: 20px;">
   <img src="/img/people/celina-li.svg" alt="Celina Li" style="width: 110px; height: 110px; border-radius: 12px; object-fit: cover; flex-shrink: 0;">
-  <div style="flex: 1 1 0%; min-width: 0;"><strong>Celina Li</strong> — Biochemistry, '28</div>
+  <div style="flex: 1 1 0%; min-width: 0;"><strong>Celina Li</strong><br>Biochemistry, '28</div>
 </div>
 
 <div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap; margin-bottom: 20px;">
   <img src="/img/people/jacqueline-soraire.svg" alt="Jacqueline Soraire" style="width: 110px; height: 110px; border-radius: 12px; object-fit: cover; flex-shrink: 0;">
-  <div style="flex: 1 1 0%; min-width: 0;"><strong>Jacqueline Soraire</strong> — Chemistry, '28</div>
+  <div style="flex: 1 1 0%; min-width: 0;"><strong>Jacqueline Soraire</strong><br>Chemistry, '28</div>
 </div>
 
 <div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap; margin-bottom: 20px;">
   <img src="/img/people/sylvia-lam.svg" alt="Sylvia Lam" style="width: 110px; height: 110px; border-radius: 12px; object-fit: cover; flex-shrink: 0;">
-  <div style="flex: 1 1 0%; min-width: 0;"><strong>Sylvia Lam</strong> — Biochemistry, '28</div>
+  <div style="flex: 1 1 0%; min-width: 0;"><strong>Sylvia Lam</strong><br>Biochemistry, '28</div>
 </div>
 
 <!-- Name — Role -->
