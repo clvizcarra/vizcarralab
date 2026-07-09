@@ -3,8 +3,6 @@ title: "Research"
 showTableOfContents: false
 ---
 
-The Vizcarra Lab studies the proteins that build the eukaryotic cytoskeleton.
-
 <div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap; margin-bottom: 24px;">
   <img src="/img/research/formins-microtubules.svg" alt="Formins & Microtubules" style="width: 180px; height: 180px; border-radius: 12px; object-fit: cover; flex-shrink: 0;">
   <div style="flex: 1 1 0%; min-width: 0;">
