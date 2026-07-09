@@ -28,7 +28,7 @@ showTableOfContents: false
 </div>
 
 <div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap; margin-bottom: 24px;">
-  <img src="/img/research/mt3-actin.png" alt="Metallothioneins" style="width: 180px; height: 180px; border-radius: 12px; object-fit: cover; flex-shrink: 0;">
+  <img src="/img/research/MT3-2.png" alt="Metallothioneins" style="width: 180px; height: 180px; border-radius: 12px; object-fit: cover; flex-shrink: 0;">
   <div style="flex: 1 1 0%; min-width: 0;">
     <strong>Metallothioneins</strong><br>
     Together with the Austin lab, we study metallothionein-3's interaction with the actin cytoskeleton.
