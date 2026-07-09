@@ -10,6 +10,6 @@ Barnard College
 New York, NY 10027
 
 
-![Picture of NYC](/img/contact/NYC.png)
+![Picture of NYC](/img/contact/NYC.jpg)
 
 <!-- Add lab room/building location, mailing address details, or a map here. -->
