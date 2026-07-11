@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+fullWidth: true
 ---
 
 <u>Underline</u> indicates a student researcher. \* indicates a corresponding author.
