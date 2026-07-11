@@ -63,57 +63,57 @@ showTableOfContents: false
 
 **Alanna Xue** — Biochemistry, '26
 
-**Inanna Doytch** — Biochemistry, '25
+**Inanna Doytch** — Biochemistry, '25 *(with Austin lab)*
 
 **Vanessa Yang** — Biochemistry, '25
 
 **Sarah Jeanty** — Biochemistry, '25
 
-**Sheikh Jobayar** — Biochemistry, '24
+**Sheikh Jobayar** — Biochemistry, '24 *(with Austin lab)*
 
-**Natasha Sharma** — Biochemistry, '24
+**Natasha Sharma** — Biochemistry, '24  *(with Olson lab)*
 
 **Ningxin Luo** — Biochemistry, '24
 
-**Karen Jang** — Biochemistry, '23
+**Karen Jang** — Biochemistry, '23 *(with Austin lab)*
 
 **Hana Illikkal** — Biochemistry, '23
 
-**Xiang Ji** — Biochemistry, '22
+**Xiang Ji** — Biochemistry, '22 *(with Olson lab)*
 
 **Hannah Christianson** — Chemistry, '22
 
-**Joana Gjeci** — Biochemistry, '22
+**Joana Gjeci** — Biochemistry, '22 *(with Rojas lab)*
 
-**Aliza Makovsky** — Neuroscience & Behavior, '22
+**Aliza Makovsky** — Neuroscience & Behavior, '22 *(with Olson lab)*
 
 **Julia Van Riel** — Biochemistry, '22
 
-**Sophie Baum** — Chemistry, '22
+**Sophie Baum** — Chemistry, '22 *(with Austin lab)*
 
-**Rahma Elsiesy** — Biochemistry, '21
+**Rahma Elsiesy** — Biochemistry, '21 *(with Austin lab)*
 
 **Amanda Klestzick** — Biochemistry, '21
 
 **Dana Ross** — Biochemistry, '21
 
-**Spoorthi Balu** — Biochemistry, '21
+**Spoorthi Balu** — Biochemistry, '21 *(with Austin lab)*
 
-**Mehrose Ahmad** — Biochemistry, '21
+**Mehrose Ahmad** — Biochemistry, '21 *(with Austin lab)*
 
-**Yeliz Sezgin** — Biochemistry, '21
+**Yeliz Sezgin** — Biochemistry, '21 *(with Austin lab)*
 
 **Angela Montero** — Biochemistry, '20
 
-**Alison Milano** — Biochemistry, '20
+**Alison Milano** — Biochemistry, '20 *(with Austin lab)*
 
 **Veronica Zelles** — Biochemistry, '20
 
-**Shoshana Williams** — Chemistry, '20
+**Shoshana Williams** — Chemistry, '20 *(with Austin lab)*
 
 **Grace Nickel** — Biochemistry, '19
 
-**Carla Hachicho** — Biochemistry, '19
+**Carla Hachicho** — Biochemistry, '19 *(with Austin lab)*
 
 **Aisha Hasan** — Chemistry, '18
 
@@ -121,7 +121,7 @@ showTableOfContents: false
 
 **Lisette Garcia** — Biochemistry, '18
 
-**Lisa Minkoff** — Biochemistry, '18
+**Lisa Minkoff** — Biochemistry, '18 *(with Austin lab)*
 
 **Archana Nagarajan** — Biochemistry, '17
 
